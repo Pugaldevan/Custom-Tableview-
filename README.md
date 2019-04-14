@@ -4,6 +4,8 @@ Table view with custom tableview cell and passing the data using method injectio
    #!/bin/bash
    open -a Terminal "`pwd`”
    
+   Script available here :Run "chmod +x ./path/to/the/script/open_terminal.sh" to make it available in the panel "choose script..." panel, give the script executable permission from terminal.
+   
    Custom Templates Directory:
    ~/Library/Developer/Xcode/Templates 
    mkdir -p ~/Library/Developer/Xcode/Templates/File\ Templates/Custom 
